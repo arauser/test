@@ -4,5 +4,6 @@
          "path":"source/blog",
          "role":"editor"
       }
-   ]
+   ],
+   "tempfolder": "tmp"
 }
